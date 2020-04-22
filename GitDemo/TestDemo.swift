@@ -10,6 +10,6 @@ import UIKit
 //test
 class TestDemo: NSObject {
     func  test(){
-        
+        print("dfdf")
     }
 }
