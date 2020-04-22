@@ -11,5 +11,6 @@ import UIKit
 class TestDemo: NSObject {
     func  test(){
         print("dfdf")
+        print("4544545")
     }
 }
