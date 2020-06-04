@@ -12,12 +12,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("dfsgfsdgsdfg")
+        print("test1")
         // Do any additional setup after loading the view.
     }
     
     private func test() {
-        print("dfsgfsdgsdfg")
+        print("test2")
     }
 
 
